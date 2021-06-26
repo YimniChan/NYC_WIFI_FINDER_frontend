@@ -1,7 +1,6 @@
 ### WiFi Finder NYC🗽
-/*
-## Live Demo ---- *https://ttp-wifi-finder-185ee.web.app/*
-*/
+
+//## Live Demo ---- *https://ttp-wifi-finder-185ee.web.app/*
 **open with Google Chrome broswer**
 
 ![2021-06-25](https://user-images.githubusercontent.com/49767917/123496832-1c663c80-d5f8-11eb-8dcf-e5e78b426b62.png)
